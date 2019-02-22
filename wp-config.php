@@ -20,13 +20,13 @@
 
 // ** Configurações do MySQL - Você pode pegar estas informações com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
-define('DB_NAME', 'avu6mic209fugmkv');
+define('DB_NAME', 'agb6jvd23jda0iuc');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'taamcbxwtbwnnykf');
+define('DB_USER', 'nnt0vcfgz848lexu');
 
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', 'q6456t8dbloredj2');
+define('DB_PASSWORD', 'pftng58xuwt3cw6r');
 
 /** Nome do host do MySQL */
 define('DB_HOST', 'jw0ch9vofhcajqg7.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
